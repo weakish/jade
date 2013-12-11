@@ -1065,7 +1065,7 @@ each person in users
 <a name="a14"/>
 ## Mixins
 
-Mixins 在编译的模板里会被 Jade 转换为普通的 JavaScript 函数。 Mixins 可以还参数，但不是必需的：
+Mixins 在编译的模板里会被 Jade 转换为普通的 JavaScript 函数。 Mixins 可以带参数，但不是必需的：
 
 ```jade
 mixin list
